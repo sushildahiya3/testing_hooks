@@ -1,2 +1,2 @@
 var a ="hi onu"
-console.log("-----",a)
+console.log(a)
